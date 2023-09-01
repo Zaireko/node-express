@@ -1,18 +1,12 @@
-<tr>
-    <td>
-        nombre <br>
-        titulo <br>
-        objetivo <br>
-    </td>
-
-    <td>
-        foto
-    </td>
-
-    <td>
-        email <br>
-        celular <br>
-        ubicacion <br>
-        redsocial
-    </td>
-</tr>
+{
+  "name" : "Aldahir",
+  "titulo" : "PhD",
+  "objetivo" : "ser competitivo internacionalmente",
+  "foto" : "https://...com",
+  "email" : "c.aldahir.jc@gmail.com",
+  "celular" : "2731184975",
+  "ubicacion" : "Orizaba Veracruz, Mexico",
+  "red social" : "no hay"
+  }
+  
+  
