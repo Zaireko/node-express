@@ -1,6 +1,6 @@
 [
     {
-        "puesto" : "Programador",
+        "puesto" : "Programador full stack",
         "empresa" : "Riot Games",
         "fecha_ini" : "01/2018",
         "fecha_fin" :"01/2077",
@@ -19,7 +19,7 @@
         ]
     },
     {
-        "puesto" : "Programador",
+        "puesto" : "Programador Frontend",
         "empresa" : "Google",
         "fecha_ini" : "01/2018",
         "fecha_fin" :"01/2077",
@@ -34,6 +34,9 @@
             },
             {
                 "logro" : "Vencer a Midir, el devorador de la oscuridad con una build de mago oscuro en el dark souls 3"
+            },
+            {
+                "logro" : "matar al dragon boquiabierto del dark souls 1 al primer intento"
             }
         ]
     }
