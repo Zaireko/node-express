@@ -1,19 +1,40 @@
-{
-    "puesto" : "Programador",
-    "empresa" : "Riot Games",
-    "fecha_ini" : "01/2018",
-    "fecha_fin" :"presente",
-    "ciudad" : "Orizaba",
-    "pais" : "Veracruz",
-    "logros" : [
-        {
-            "logro" : "Desarrollador que contribuyó al lanzamiento de un nuevo campeón (yuumi) en League of Legends, creando una experiencia de juego única que rápidamente se convirtió en favorita (odiada en realidad) de los jugadores."
-        },
-        {
-            "logro" : "Descubrir y resolver un número excepcionalmente alto de errores y problemas de juego, ayudando a mantener la estabilidad y el rendimiento del juego."
-        },
-        {
-            "logro" : "Pasarse Dark Souls 3 a nivel 1"
-        }
-    ]
-}
+[
+    {
+        "puesto" : "Programador",
+        "empresa" : "Riot Games",
+        "fecha_ini" : "01/2018",
+        "fecha_fin" :"01/2077",
+        "ciudad" : "Orizaba",
+        "pais" : "Republica democratica de Veracruz",
+        "logros" : [
+            {
+                "logro" : "Desarrollador que contribuyó al lanzamiento de un nuevo campeón (yuumi) en League of Legends, creando una experiencia de juego única que rápidamente se convirtió en favorita (odiada en realidad) de los jugadores."
+            },
+            {
+                "logro" : "Descubrir y resolver un número excepcionalmente alto de errores y problemas de juego, ayudando a mantener la estabilidad y el rendimiento del juego."
+            },
+            {
+                "logro" : "Pasarse Dark Souls 3 a nivel 1"
+            }
+        ]
+    },
+    {
+        "puesto" : "Programador",
+        "empresa" : "Google",
+        "fecha_ini" : "01/2018",
+        "fecha_fin" :"01/2077",
+        "ciudad" : "Córdoba",
+        "pais" : "Republica democratica de Veracruz",
+        "logros" : [
+            {
+                "logro" : "Desarrollador Frontend del buscador de google"
+            },
+            {
+                "logro" : "Creador del easter egg do a barrell roll"
+            },
+            {
+                "logro" : "Vencer a Midir, el devorador de la oscuridad con una build de mago oscuro en el dark souls 3"
+            }
+        ]
+    }
+]
