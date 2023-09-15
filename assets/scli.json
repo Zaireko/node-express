@@ -1,0 +1,49 @@
+{
+    "skills" : [
+        {
+            "skill" : "Java"
+        },
+        {
+            "skill" : "Desarrollador Frontend"
+        },
+        {
+            "skill" : "Resistencia al estrés"
+        },
+        {
+            "skill" : "Creativo"
+        },
+        {
+            "skill" : "Existir"
+        }
+    ],
+
+    "certificates" : [
+        {
+            "certificate" : "Certificado 1"
+        },
+        {
+            "certificate" : "Certificado 2"
+        },
+        {
+            "certificate" :"Certificado 10"
+        }
+    ],
+
+    "interests" : [
+        {
+            "interest" : "Videojuegos"
+        },
+        {
+            "interest" : "Lectura"
+        },
+        {
+            "interest" : "Escritura"
+        },
+        {
+            "interest" : "Inteligencia artificial"
+        },
+        {
+            "interest" : "Reddit"
+        }
+    ]
+}
