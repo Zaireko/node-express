@@ -1,0 +1,40 @@
+{
+    "interests" : [
+        {
+            "interest" : "Videojuegos"
+        },
+        {
+            "interest" : "Lectura"
+        },
+        {
+            "interest" : "Escritura"
+        },
+        {
+            "interest" : "Inteligencia artificial"
+        },
+        {
+            "interest" : "Reddit"
+        },
+        {
+            "interest" : "Deportes"
+        },
+        {
+            "interest" : "Música"
+        },
+        {
+            "interest" : "Viajar"
+        },
+        {
+            "interest" : "Cine"
+        },
+        {
+            "interest" : "Ciencia"
+        },
+        {
+            "interest" : "Tecnología"
+        },
+        {
+            "interest" : "Arte"
+        }
+    ]
+}

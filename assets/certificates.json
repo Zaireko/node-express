@@ -1,0 +1,19 @@
+{
+    "certificates" : [
+        {
+            "certificate" : "Certificado 1"
+        },
+        {
+            "certificate" : "Certificado 2"
+        },
+        {
+            "certificate" : "Certificado 3"
+        },
+        {
+            "certificate" : "Certificado 4"
+        },
+        {
+            "certificate" : "Certificado 5"
+        }
+    ]
+}

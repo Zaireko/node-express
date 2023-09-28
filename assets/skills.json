@@ -1,0 +1,40 @@
+{
+    "skills": [
+        {
+            "skill" : "Java"
+        },
+        {
+            "skill" : "Desarrollador Frontend"
+        },
+        {
+            "skill" : "Resistencia al estrés"
+        },
+        {
+            "skill" : "Creativo"
+        },
+        {
+            "skill" : "Existir"
+        },
+        {
+            "skill" : "Python"
+        },
+        {
+            "skill" : "Gestión de Proyectos"
+        },
+        {
+            "skill" : "Comunicación Efectiva"
+        },
+        {
+            "skill" : "Diseño Gráfico"
+        },
+        {
+            "skill" : "Trabajo en Equipo"
+        },
+        {
+            "skill" : "Machine Learning"
+        },
+        {
+            "skill" : "Negociación"
+        }
+    ]
+}
